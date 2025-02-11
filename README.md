@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @demirciomer
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning quadruped robots
+- 🌱 I’m currently working on quadruped robots
 - 💞️ I’m looking to collaborate on industrial robots
 - 📫 How to reach me omer.demirci@hyperever.com
 
